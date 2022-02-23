@@ -1,0 +1,530 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A serious meditation for sinners vvhich is set forth in several discourses, which passed between a soul at her departure, and the members of the body : in three parts / by Edward Carrey.</title>
+            <author>Carrey, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34662</idno>
+            <idno type="STC">Wing C641</idno>
+            <idno type="STC">ESTC R34787</idno>
+            <idno type="EEBO-CITATION">14713203</idno>
+            <idno type="OCLC">ocm 14713203</idno>
+            <idno type="VID">102715</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34662)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102715)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1566:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A serious meditation for sinners vvhich is set forth in several discourses, which passed between a soul at her departure, and the members of the body : in three parts / by Edward Carrey.</title>
+                  <author>Carrey, Edward.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Blare ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Salvation --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102715:1"/>
+            <p>A SERIOUS MEDITATION FOR SINNERS, VVhich is ſet forth in ſeveral <hi>Diſcourſes,</hi> Which paſſed between a Soul at her departure, and the Members of the Body.</p>
+            <p>In <hi>Three PARTS.</hi>
+            </p>
+            <p>By <hi>Edward Carrey.</hi>
+            </p>
+            <p>
+               <hi>Licenſed according to Order.</hi>
+            </p>
+            <p>Printed for <hi>J. Blare</hi> at the <hi>Looking-Glaſs</hi> on <hi>London-Bridge.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="2" facs="tcp:102715:2"/>
+            <head>A Serious <hi>MEDITATION</hi> FOR SINNERS, &amp;c.</head>
+            <div n="1" type="part">
+               <head>Part I.</head>
+               <lg>
+                  <l>YOu that are in the Glory of your Prime,</l>
+                  <l>Be ſure that you make good uſe of your time;</l>
+                  <l>For when time's paſt, you cannot it recal;</l>
+                  <l>Time ſtill runs on, it ſtays for none at all.</l>
+               </lg>
+               <lg>
+                  <l>Do not ſerve Satan, ſhun his ill adviſe,</l>
+                  <l>Becauſe he will contrive for to intice</l>
+                  <l>You in your Youth, to act thoſe things that's ill,</l>
+                  <l>And much diſpleaſing to God's bleſſed will.</l>
+               </lg>
+               <lg>
+                  <l>One ſin there is which now I ſhall declare,</l>
+                  <l>He does entice young Children for to ſwear,</l>
+                  <l>Before ſome ſcarce have learn'd their A B C,</l>
+                  <l>They'll Curſe and Band; alas! more is the pitty.</l>
+               </lg>
+               <lg>
+                  <l>It's to be doubted that their Parents they,</l>
+                  <l>In wickedneſs do ſpend their time away;</l>
+                  <l>For if that they in fear of GOD did live,</l>
+                  <l>They would to them better inſtructions give.</l>
+               </lg>
+               <lg>
+                  <l>Both Rich and Poor of your Children take care,</l>
+                  <l>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d don't allow them for to Curſe and ſwear,</l>
+                  <l>Leſt they through your neglect be forc'd to mourn,</l>
+                  <l>And Curſe the hour wherein they was born.</l>
+               </lg>
+               <lg>
+                  <pb n="3" facs="tcp:102715:2"/>
+                  <l>Be careful to inſtruct them in their youth,</l>
+                  <l>To ſerve the Lord in Spirit and in truth,</l>
+                  <l>Allow them not to keep ill Company,</l>
+                  <l>For fear they come to ſhame and miſery.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Likewiſe you Children, in your Blooming Spring,</hi>
+                  </l>
+                  <l>
+                     <hi>Let not your diſobedience ſorrow bring,</hi>
+                  </l>
+                  <l>
+                     <hi>To fill your Aged parents hearts with woe;</hi>
+                  </l>
+                  <l>
+                     <hi>But u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>to them ſtill due obedience ſhow.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Honour your Parents do not them deſpiſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Be always dutiful to them likewiſe,</hi>
+                  </l>
+                  <l>
+                     <hi>And don't run on against the Laws of GOD,</hi>
+                  </l>
+                  <l>
+                     <hi>For fear leſt he ſhould ſcourge you with his Rod.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Let Young and Old, both Rich and poor amend,</l>
+                  <l>Their wicked lives and not ſo much offend,</l>
+                  <l>Your Gracious God who now's offended ſore,</l>
+                  <l>Leſt he forſake you, and ne'er own you more.</l>
+               </lg>
+               <lg>
+                  <l>Oh what condition would that ſoul be in,</l>
+                  <l>That now s delighting and glorying in ſin;</l>
+                  <l>If God ſhould turn his glorious day to night,</l>
+                  <l>Who knows then where his Soul will take its flight.</l>
+               </lg>
+               <lg>
+                  <l>Oh think on this in time both Rich and poor,</l>
+                  <l>Take care, and don't offend your God no more;</l>
+                  <l>That when God's pleas'd his meſſenger to ſend,</l>
+                  <l>You may prepared be, then for your end.</l>
+               </lg>
+               <lg>
+                  <l>You that theſe Lines doth Read or hear I pray,</l>
+                  <l>Reform your Lives, and do not fool away</l>
+                  <l>Your dear and precious time in wickedneſs,</l>
+                  <l>If that you e'er do hope for heavens Bliſs.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="4" facs="tcp:102715:3"/>
+               <head>
+                  <hi>Part. II.</hi> The Souls Lamentation.</head>
+               <l>I pray give ear unto the diſmal ſtate,</l>
+               <l>O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> one who was a wicked Reprobate:</l>
+               <l>That when he came upon his bed to dye,</l>
+               <l>His precious ſoul was forc'd theſe words to cry;</l>
+               <lg>
+                  <head>Soul.</head>
+                  <l>Oh eyes! where are you now? who often was</l>
+                  <l>So quick and ſharp on vanity to gaze,</l>
+                  <l>Come, come direct n e now and be my guide!</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>nto ſome pl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce where I my ſelf may hide.</l>
+               </lg>
+               <lg>
+                  <head>Eyes.</head>
+                  <l>Alas! dear ſoul, we cannot be thy guide,</l>
+                  <l>Therefore thy ſuit to us muſt be deny'd;</l>
+                  <l>For we are dim alſo, our ſtrings are broke;</l>
+                  <l>Our ſight is gone, of it there is no hope.</l>
+               </lg>
+               <lg>
+                  <head>Soul.</head>
+                  <l>Oh Ears! who oftentimes was wont to be,</l>
+                  <l>Much Recreated with ſweet harmony</l>
+                  <l>Of Muſick, which you always lov'd to hear,</l>
+                  <l>Likewiſe pleaſant d ſcourſe pleaſ'd you moſt dear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Ears.</head>
+                  <l>
+                     <hi>Oh! can you hear of any one now, who</hi>
+                  </l>
+                  <l>
+                     <hi>That can or wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l me any comfort ſhow:</hi>
+                  </l>
+                  <l>No ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ul we can't hear no comfort for thee,</l>
+                  <l>Becauſe ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hearing's gone, and dull we be.</l>
+               </lg>
+               <lg>
+                  <head>Soul.</head>
+                  <l>Oh Tongue! You that would often brag and boaſt,</l>
+                  <l>And had ſuch way of a daunting Diſcourſe,</l>
+                  <l>Come ſpeak up now for me with Courage bold,</l>
+                  <l>To take my part, and don't thy ſpeech with-hold.</l>
+               </lg>
+               <lg>
+                  <l>You oftentimes would take <hi>God</hi>'s Name in Vain;</l>
+                  <l>What is the cauſe you do your ſpeech refrain?</l>
+                  <pb n="5" facs="tcp:102715:3"/>
+                  <l>Alas the tongue is dumb, and grown ſo weak,</l>
+                  <l>That unto me it can no comfort ſpeak.</l>
+               </lg>
+               <lg>
+                  <l>Oh Hands! who that in War took ſuch delight,</l>
+                  <l>Who in your prime that was ſuch hands to fight;</l>
+                  <l>Come ſtir up now, put forth your ſtrength for me,</l>
+                  <l>E're I am loſt to all eternity.</l>
+               </lg>
+               <lg>
+                  <head>Hands.</head>
+                  <l>Though formerly we were ſuch hands of might,</l>
+                  <l>Alas! poor ſoul! for thee we cannot fight;</l>
+                  <l>We are grown feeble, and in ſuch a caſe,</l>
+                  <l>We cannot move our ſelves out of the place.</l>
+               </lg>
+               <lg>
+                  <head>Soul.</head>
+                  <l>Oh! feet, I'm in diſtreſs, can you help me?</l>
+                  <l>Who that was won<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſo nimble for to be;</l>
+                  <l>My caſe is bad, ſtand up for me therefore,</l>
+                  <l>And carry me where I may be ſeen no more.</l>
+               </lg>
+               <lg>
+                  <l>Alas! the feet are dead, and cold as Clay,</l>
+                  <l>They can't ſtir to carry me hence away:</l>
+                  <l>I now am helpleſs left, where can <hi>I</hi> flee,</l>
+                  <l>To hide my ſelf from Satan's tiranny?</l>
+               </lg>
+               <lg>
+                  <l>Oh! filthy Carcaſs! Oh thou lump of ſin!</l>
+                  <l>Who hast always ſo vile; and wicked been;</l>
+                  <l>I for the time which thou ſo illy ſpent,</l>
+                  <l>Shall be kept in everlaſting torment.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Alas! alas! I now ſhall forced be</hi>
+                  </l>
+                  <l>
+                     <hi>From hence into a gulf of Miſery,</hi>
+                  </l>
+                  <l>
+                     <hi>In cruel torments for to make my moan,</hi>
+                  </l>
+                  <l>
+                     <hi>Whilſt happy ſouls rejoyce in Heaven's throne.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>A Righteous man when he doth come to die;</hi>
+                  </l>
+                  <l>
+                     <hi>He need not fear the ſting of death, for why?</hi>
+                  </l>
+                  <pb n="6" facs="tcp:102715:4"/>
+                  <l>
+                     <hi>Becauſe that he will be accompanied,</hi>
+                  </l>
+                  <l>
+                     <hi>With Angels bright before that he is dead.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Who waits to take his Soul ſo ſoon as ſhe,</hi>
+                  </l>
+                  <l>
+                     <hi>Is ſeperated then from his Body,</hi>
+                  </l>
+                  <l>
+                     <hi>To carry her hence to Chriſt who that will ſay,</hi>
+                  </l>
+                  <l>
+                     <hi>Thou art welcome ſoul unto Eternal Joy.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="3" type="part">
+               <head>
+                  <hi>Part. III.</hi> Chriſt's Comfort to Sinners.</head>
+               <lg>
+                  <l>I <hi>Once did ſuffer Death upon the Croſs,</hi>
+                  </l>
+                  <l>
+                     <hi>For to Redeem poor ſinners that were loſt;</hi>
+                  </l>
+                  <l>
+                     <hi>With a bleeding heart for Sinners</hi> I <hi>did Groan,</hi>
+                  </l>
+                  <l>I <hi>died for thee, come Soul thou art my own.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Thee for thy good works ſhalt partaker be,</hi>
+                  </l>
+                  <l>
+                     <hi>Of Heaven's Crown with a bleſſed Company,</hi>
+                  </l>
+                  <l>
+                     <hi>Of Saints and Angels that will thee ſurround,</hi>
+                  </l>
+                  <l>
+                     <hi>VVith great Triumphing Joys when thee art Crown'd.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The glorious heavenly hoſt ſhall thee attend,</l>
+                  <l>Thy Joy and pleaſures ne'er ſhall have an end;</l>
+                  <l>Whilſt wicked ones for ſin in torments be,</l>
+                  <l>Thee ſhalt have reſt in paradiſe with me.</l>
+               </lg>
+               <lg>
+                  <l>Now to Conclude, all you that do deſign,</l>
+                  <l>Heaven for your dera ſouls, repent in time;</l>
+                  <l>That when you come this mortal life to leave.</l>
+                  <l>Chriſt Jeſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s may your precious Soul Receive.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="song">
+            <head>The Eſquires Tragedy. Tune of forgive me if your looks I thought.</head>
+            <l>
+               <hi>OH faireſt but unkindeſt ſhe</hi>
+            </l>
+            <l>
+               <hi>that ever was admired,</hi>
+            </l>
+            <pb n="7" facs="tcp:102715:4"/>
+            <l>
+               <hi>To be ſo cruel unto me.</hi>
+            </l>
+            <l>
+               <hi>ſince you my heart have fired,</hi>
+            </l>
+            <l>
+               <hi>Your looks to me did ſeem moſt kind</hi>
+            </l>
+            <l>
+               <hi>when firſt I did behold you,</hi>
+            </l>
+            <l>
+               <hi>But oh the torments of my mind,</hi>
+            </l>
+            <l>
+               <hi>I oftentimes have told you.</hi>
+            </l>
+            <l>In thee I place my chiefeſt joy,</l>
+            <l>I ſeek no other treaſure,</l>
+            <l>Then do not all my hopes deſtroy,</l>
+            <l>who loves thee out of meaſure:</l>
+            <l>Forbear to triumph in disdain,</l>
+            <l>ſince here I lie and languiſh,</l>
+            <l>True love is a tormenting pain,</l>
+            <l>which fills my ſoul with anguiſh.</l>
+            <l>The ſilent night I ſpend in tears,</l>
+            <l>and melt in lamentation,</l>
+            <l>And yet no glance of love appears,</l>
+            <l>but utrer deteſtation;</l>
+            <l>Regarding not my perious moan,</l>
+            <l>my ſighs and ſad lamenting,</l>
+            <l>Your heart like flint or marble-ſtone,</l>
+            <l>feel not the leaſt relenting.</l>
+            <l>Your beauty gave the fatal wound,</l>
+            <l>and did at firſt allure me,</l>
+            <l>In chains of love I now lye bound,</l>
+            <l>and you alone can cure me;</l>
+            <l>Caſt not a loyal love away,</l>
+            <l>who at your feet lies bleeding;</l>
+            <l>Vnto my ſight one ſmile convey,</l>
+            <l>for which my tears are pleading.</l>
+            <l>Why ſhould <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o charming beauty bright,</l>
+            <l>reſolve to be ſo cruel;</l>
+            <l>O let me not be ruin'd quite</l>
+            <l>in love's deſtroying fuel;</l>
+            <pb n="8" facs="tcp:102715:5"/>
+            <l>See how my eyes like fountains flow,</l>
+            <l>with chriſtial tears before thee,</l>
+            <l>Then do not ſeek his overthrow,</l>
+            <l>who does this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay ado<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e thee.</l>
+            <l>Behold I am t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Captive ſlave,</l>
+            <l>thy wounded love, bel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eve me,</l>
+            <l>And you alone my life can ſave,</l>
+            <l>and therefore <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow rep<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e me,</l>
+            <l>Yet tho' my t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ief you'll not remove,</l>
+            <l>but ſtill with torments fill me,</l>
+            <l>Yet I can<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot forbear to love,</l>
+            <l>although with ſcorn you kill me.</l>
+            <l>If thus you are reſolv'd to frown,</l>
+            <l>and ſlight my friendly favour,</l>
+            <l>Then to the grave I will go down,</l>
+            <l>farewel thou world for ever;</l>
+            <l>I find ſhe triumphs in disdain,</l>
+            <l>and ſtill denys the bleſſing;</l>
+            <l>Why ſhould I live to feel this pain,</l>
+            <l>which is beyond expreſſing.</l>
+            <l>This ſaid, his naked ſword he drew,</l>
+            <l>and to his heart he ſent it,</l>
+            <l>And as he bid the world adieu,</l>
+            <l>ſhe bitterly lamented,</l>
+            <l>Crying, <hi>I <hi>was unfortunate,</hi>
+               </hi>
+            </l>
+            <l>
+               <hi>wou'd <hi>I</hi> had dy'd before him,</hi>
+            </l>
+            <l>Thus did ſhe weep when 'twas too late,</l>
+            <l>for tears could not reſtore him.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:102715:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
